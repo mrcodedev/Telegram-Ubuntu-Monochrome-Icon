@@ -3,7 +3,7 @@
 
 **(SPA)** Esta screenshot es tema de Ubuntu es el de Flatabulous: <a href="https://github.com/anmoljagetia/Flatabulous">**Flatabulous**</a> Tema Flat de Ubuntu y otros sistemas Linux basadas en Debian. Se basa en el tema Ultra-Flat.
 
-##Versions
+##Changelog
 ###Version 0.5.
 * Creating icons
 
