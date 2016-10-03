@@ -1,3 +1,6 @@
+#Screenshot
+![Screenshot Icon](/screenshots/screenshot-telegram-icon-monochrome-1.png)
+
 #Telegram Ubuntu Monochrome Icon (EN)
 
 Changing the traditional icon in blue to the new monochrome icon in Ubuntu 16.04.
