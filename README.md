@@ -1,9 +1,18 @@
-#Screenshot
-![Screenshot Icon](/screenshots/screenshot-telegram-icon-monochrome-1.png)
-
+*NOTE
 **(EN)** This is theme screenshot Ubuntu is the Flatabulous: <a href="https://github.com/anmoljagetia/Flatabulous">**Flatabulous**</a>. Flat theme for Ubuntu and other Debian based Linux Systems. This is based on a the Ultra-Flat theme.
 
 **(SPA)** Esta screenshot es tema de Ubuntu es el de Flatabulous: <a href="https://github.com/anmoljagetia/Flatabulous">**Flatabulous**</a> Tema Flat de Ubuntu y otros sistemas Linux basadas en Debian. Se basa en el tema Ultra-Flat.
+
+##Versions
+###Version 0.5.
+* Creating icons
+
+![Screenshot Icon](/screenshots/screenshot-telegram-icon-monochrome-v05.png)
+
+###Version 1.0.
+* It has added a little blur to be displayed much better in the bar
+
+![Screenshot Icon](/screenshots/screenshot-telegram-icon-monochrome-v1.png)
 
 #Telegram Ubuntu Monochrome Icon (EN)
 
