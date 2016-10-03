@@ -1,4 +1,4 @@
-*NOTE
+##NOTE
 **(EN)** This is theme screenshot Ubuntu is the Flatabulous: <a href="https://github.com/anmoljagetia/Flatabulous">**Flatabulous**</a>. Flat theme for Ubuntu and other Debian based Linux Systems. This is based on a the Ultra-Flat theme.
 
 **(SPA)** Esta screenshot es tema de Ubuntu es el de Flatabulous: <a href="https://github.com/anmoljagetia/Flatabulous">**Flatabulous**</a> Tema Flat de Ubuntu y otros sistemas Linux basadas en Debian. Se basa en el tema Ultra-Flat.
