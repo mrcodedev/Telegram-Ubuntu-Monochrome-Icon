@@ -6,7 +6,7 @@
 Changing the traditional icon in blue to the new monochrome icon in Ubuntu 16.04.
 
 ##How to use?
-You must change these icons in *PNG* format to the folder:
+You must change these icons in **PNG** format to the folder:
 
 ```
 /home/(user)/.TelegramDesktop/tdata/ticons
@@ -14,7 +14,7 @@ You must change these icons in *PNG* format to the folder:
 
 .TelegramDesktop folder is hidden, so you must show hidden files.
 
-*Mr. CodeDev:* <a href="http://www.mrcodedev.com" target="_blank">http://www.mrcodedev.com</a>
+**Mr. CodeDev:** <a href="http://www.mrcodedev.com">http://www.mrcodedev.com</a>
 
 > Sorry for my bad English :sweat_smile:
 
@@ -23,7 +23,7 @@ You must change these icons in *PNG* format to the folder:
 Cambio del tradicional icono en azul al nuevo icono monocromo en Ubuntu 16.04.
 
 ##¿Cómo se usa?
-Debes de cambiar estos iconos en *PNG* al siguiente directorio:
+Debes de cambiar estos iconos en **PNG** al siguiente directorio:
 
 ```
 /home/(user)/.TelegramDesktop/tdata/ticons
@@ -31,4 +31,4 @@ Debes de cambiar estos iconos en *PNG* al siguiente directorio:
 
 El directorio .TelegramDesktop está oculto, debes de ver los archivos ocultos.
 
-*Mr. CodeDev:* <a href="http://www.mrcodedev.com" target="_blank">http://www.mrcodedev.com</a>
+**Mr. CodeDev:** <a href="http://www.mrcodedev.com" target="_blank">http://www.mrcodedev.com</a>
