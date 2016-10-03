@@ -3,7 +3,6 @@
 
 +(EN) This is theme screenshot Ubuntu is the Flatabulous: <a href="https://github.com/anmoljagetia/Flatabulous">**Flatabulous**</a>
 
-
 +(SPA) Esta screenshot es tema de Ubuntu es el de Flatabulous: <a href="https://github.com/anmoljagetia/Flatabulous">**Flatabulous**</a>
 
 #Telegram Ubuntu Monochrome Icon (EN)
