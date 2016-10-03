@@ -14,6 +14,8 @@ You must change these icons in *PNG* format to the folder:
 
 .TelegramDesktop folder is hidden, so you must show hidden files.
 
+*Mr. CodeDev:* <a href="http://www.mrcodedev.com" target="_blank">http://www.mrcodedev.com</a>
+
 > Sorry for my bad English :sweat_smile:
 
 #Icono Monocromo para Ubuntu de Telegram (SPA)
@@ -28,3 +30,5 @@ Debes de cambiar estos iconos en *PNG* al siguiente directorio:
 ```
 
 El directorio .TelegramDesktop está oculto, debes de ver los archivos ocultos.
+
+*Mr. CodeDev:* <a href="http://www.mrcodedev.com" target="_blank">http://www.mrcodedev.com</a>
