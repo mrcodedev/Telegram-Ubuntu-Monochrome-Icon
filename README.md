@@ -1,7 +1,7 @@
 ##NOTE
 **(EN)** This is theme screenshot Ubuntu is the Flatabulous: <a href="https://github.com/anmoljagetia/Flatabulous">**Flatabulous**</a>. Flat theme for Ubuntu and other Debian based Linux Systems. This is based on a the Ultra-Flat theme.
 
-**(SPA)** Esta screenshot es tema de Ubuntu es el de Flatabulous: <a href="https://github.com/anmoljagetia/Flatabulous">**Flatabulous**</a> Tema Flat de Ubuntu y otros sistemas Linux basadas en Debian. Se basa en el tema Ultra-Flat.
+**(ES)** Esta screenshot es tema de Ubuntu es el de Flatabulous: <a href="https://github.com/anmoljagetia/Flatabulous">**Flatabulous**</a> Tema Flat de Ubuntu y otros sistemas Linux basadas en Debian. Se basa en el tema Ultra-Flat.
 
 ##Changelog
 ###Version 0.5.
@@ -33,7 +33,7 @@ Close and restart Telegram, and the new icon will be displayed in the bar :+1:.
 
 > Sorry for my bad English :sweat_smile:
 
-#Icono Monocromo para Ubuntu de Telegram (SPA)
+#Icono Monocromo para Ubuntu de Telegram (ES)
 
 Cambio del tradicional icono en azul al nuevo icono monocromo en Ubuntu 16.04 (debe de funcionar en otras versiones)
 
