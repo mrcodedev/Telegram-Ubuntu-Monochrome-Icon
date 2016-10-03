@@ -3,7 +3,7 @@
 Changing the traditional icon in blue to the new monochrome icon in Ubuntu 16.04.
 
 ##How to use?
-You must change these icons in PNG format to the folder:
+You must change these icons in *PNG* format to the folder:
 
 ```
 /home/(user)/.TelegramDesktop/tdata/ticons
@@ -11,14 +11,14 @@ You must change these icons in PNG format to the folder:
 
 .TelegramDesktop folder is hidden, so you must show hidden files.
 
-> Sorry for my bad English :)
+> Sorry for my bad English :sweat_smile:
 
 #Icono Monocromo para Ubuntu de Telegram (SPA)
 
 Cambio del tradicional icono en azul al nuevo icono monocromo en Ubuntu 16.04.
 
 ##¿Cómo se usa?
-Debes de cambiar estos iconos en PNG al siguiente directorio:
+Debes de cambiar estos iconos en *PNG* al siguiente directorio:
 
 ```
 /home/(user)/.TelegramDesktop/tdata/ticons
