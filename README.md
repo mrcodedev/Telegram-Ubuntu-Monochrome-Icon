@@ -1,7 +1,7 @@
 #Screenshot
 ![Screenshot Icon](/screenshots/screenshot-telegram-icon-monochrome-1.png)
 
-**(EN)** This is theme screenshot Ubuntu is the Flatabulous: <a href="https://github.com/anmoljagetia/Flatabulous">**Flatabulous**</a>. Flat theme for Ubuntu and other debian based Linux Systems. This is based on a the Ultra-Flat theme.
+**(EN)** This is theme screenshot Ubuntu is the Flatabulous: <a href="https://github.com/anmoljagetia/Flatabulous">**Flatabulous**</a>. Flat theme for Ubuntu and other Debian based Linux Systems. This is based on a the Ultra-Flat theme.
 
 **(SPA)** Esta screenshot es tema de Ubuntu es el de Flatabulous: <a href="https://github.com/anmoljagetia/Flatabulous">**Flatabulous**</a> Tema Flat de Ubuntu y otros sistemas Linux basadas en Debian. Se basa en el tema de la Ultra-Flat.
 
