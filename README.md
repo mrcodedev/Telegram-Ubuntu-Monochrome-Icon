@@ -1,6 +1,9 @@
 #Screenshot
 ![Screenshot Icon](/screenshots/screenshot-telegram-icon-monochrome-1.png)
 
+This theme of Ubuntu is to Flatabulous: <a href="https://github.com/anmoljagetia/Flatabulous">**Flatabulous**</a>
+Este tema de Ubuntu es el de Flatabulous: <a href="https://github.com/anmoljagetia/Flatabulous">**Flatabulous**</a>
+
 #Telegram Ubuntu Monochrome Icon (EN)
 
 Changing the traditional icon in blue to the new monochrome icon in Ubuntu 16.04 (It should work in other versions).
