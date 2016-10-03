@@ -14,6 +14,8 @@ You must change these icons in **PNG** format to the folder:
 
 .TelegramDesktop folder is hidden, so you must show hidden files.
 
+Close and restart Telegram, and the new icon will be displayed in the bar :+1:.
+
 **Mr. CodeDev:** <a href="http://www.mrcodedev.com">http://www.mrcodedev.com</a>
 
 > Sorry for my bad English :sweat_smile:
@@ -30,5 +32,7 @@ Debes de cambiar estos iconos en **PNG** al siguiente directorio:
 ```
 
 El directorio .TelegramDesktop está oculto, debes de ver los archivos ocultos.
+
+Cierra y reinicia telegrama, y el nuevo icono se mostrará en la barra :+1:.
 
 **Mr. CodeDev:** <a href="http://www.mrcodedev.com" target="_blank">http://www.mrcodedev.com</a>
