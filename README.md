@@ -3,7 +3,7 @@
 
 #Telegram Ubuntu Monochrome Icon (EN)
 
-Changing the traditional icon in blue to the new monochrome icon in Ubuntu 16.04.
+Changing the traditional icon in blue to the new monochrome icon in Ubuntu 16.04 (It should work in other versions).
 
 ##How to use?
 You must change these icons in **PNG** format to the folder:
@@ -20,7 +20,7 @@ You must change these icons in **PNG** format to the folder:
 
 #Icono Monocromo para Ubuntu de Telegram (SPA)
 
-Cambio del tradicional icono en azul al nuevo icono monocromo en Ubuntu 16.04.
+Cambio del tradicional icono en azul al nuevo icono monocromo en Ubuntu 16.04 (debe de funcionar en otras versiones)
 
 ##¿Cómo se usa?
 Debes de cambiar estos iconos en **PNG** al siguiente directorio:
