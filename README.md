@@ -2,6 +2,8 @@
 ![Screenshot Icon](/screenshots/screenshot-telegram-icon-monochrome-1.png)
 
 +(EN) This is theme screenshot Ubuntu is the Flatabulous: <a href="https://github.com/anmoljagetia/Flatabulous">**Flatabulous**</a>
+
+
 +(SPA) Esta screenshot es tema de Ubuntu es el de Flatabulous: <a href="https://github.com/anmoljagetia/Flatabulous">**Flatabulous**</a>
 
 #Telegram Ubuntu Monochrome Icon (EN)
@@ -19,7 +21,7 @@ You must change these icons in **PNG** format to the folder:
 
 Close and restart Telegram, and the new icon will be displayed in the bar :+1:.
 
-**Mr. CodeDev:** <a href="http://www.mrcodedev.com">http://www.mrcodedev.com</a>
+**Mr. CodeDev:** <a href="http://www.mrcodedev.com">**http://www.mrcodedev.com**</a>
 
 > Sorry for my bad English :sweat_smile:
 
@@ -38,4 +40,4 @@ El directorio .TelegramDesktop está oculto, debes de ver los archivos ocultos.
 
 Cierra y reinicia telegrama, y el nuevo icono se mostrará en la barra :+1:.
 
-**Mr. CodeDev:** <a href="http://www.mrcodedev.com" target="_blank">http://www.mrcodedev.com</a>
+**Mr. CodeDev:** <a href="http://www.mrcodedev.com" target="_blank">**http://www.mrcodedev.com**</a>
